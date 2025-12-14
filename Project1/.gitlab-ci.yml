@@ -1,8 +1,0 @@
-stages:
-  - main
-
-gitleaks_scan:
-  image: zricethezav/gitleaks:latest
-  stage: main
-  script:
-    - gitleaks detect --source .
