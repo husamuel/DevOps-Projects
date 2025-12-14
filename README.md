@@ -11,7 +11,7 @@ Foundation projects covering essential DevOps concepts and tools.
 
 | Status | Project | Description | Skills |
 |--------|---------|-------------|--------|
-| ⬜ | **CLI Server Performance Stats** | Script to analyze basic server performance metrics | Bash, Linux, Monitoring |
+| ✅ | **CLI Server Performance Stats** | Script to analyze basic server performance metrics | Bash, Linux, Monitoring |
 | ⬜ | **Log Archive Tool** | CLI tool to archive logs with timestamps | Bash, File Management |
 | ⬜ | **Nginx Log Analyser** | Simple command-line log analysis tool | Bash, Log Analysis, Nginx |
 | ⬜ | **GitHub Pages Deployment** | GitHub Actions workflow for static site deployment | CI/CD, GitHub Actions |

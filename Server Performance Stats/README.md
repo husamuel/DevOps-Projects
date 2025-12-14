@@ -18,3 +18,5 @@ Top 5 processes by memory usage
 Stretch goal: Feel free to optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
 
 Once you have completed this project, you will have some basic knowledge on how to analyse server performance stats in order to debug and get a better understanding of the server's performance.
+
+https://roadmap.sh/projects/server-stats
