@@ -2,7 +2,7 @@
 
 A comprehensive collection of hands-on DevOps projects designed to build practical skills through real-world scenarios and industry-standard tools.
 
-![Progress](https://img.shields.io/badge/Progress-0%2F24-red)
+![Progress](https://img.shields.io/badge/Progress-1%2F24-red)
 
 ## 📋 Projects
 
